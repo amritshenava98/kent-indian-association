@@ -1,3 +1,9 @@
+body{
+  background: #fff;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
 .mainmenu{
   background: green;
   height: 40px;
