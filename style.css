@@ -24,3 +24,7 @@ ul li a{
 ul li.selected{
   background: #FFF;
 }
+
+ul li.selected a{
+  color: #000;
+}
