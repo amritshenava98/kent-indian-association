@@ -28,7 +28,7 @@ ul li a{
 }
 
 ul li.selected{
-  background: #FFF;
+  background-color: white;
 }
 
 ul li.selected a{
