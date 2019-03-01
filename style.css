@@ -1,0 +1,26 @@
+.mainmenu{
+  background: green;
+  height: 40px;
+  text-align: center;
+}
+
+ul{
+ list-style: none;
+}
+
+ul li{
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+}
+
+ul li a{
+  color: #fff;
+  width: 100%;
+  line-height: 40px;
+  text-decoration: none;
+}
+
+ul li.selected{
+  background: #FFF;
+}
