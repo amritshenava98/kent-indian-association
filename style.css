@@ -10,6 +10,12 @@ body{
   text-align: center;
 }
 
+.aboutmenu{
+  background: green;
+  height: 40px;
+  text-align: center;
+}
+
 ul{
  list-style: none;
 }
